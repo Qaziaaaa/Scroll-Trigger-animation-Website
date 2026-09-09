@@ -1,20 +1,34 @@
 # Scroll Trigger Animation Website
 
-Scroll-triggered animation website with parallax effects and interactive visual storytelling. Built with vanilla HTML, CSS, and JavaScript.
-
-## Tech Stack
-
-- **HTML5**
-- **CSS3** (animations, parallax)
-- **JavaScript** (scroll triggers)
+Interactive web experience featuring scroll-triggered animations and visual effects. A demonstration of modern CSS animations and JavaScript scroll APIs.
 
 ## Features
 
-- Parallax scrolling effects
-- Scroll-triggered animations
-- Interactive visual storytelling
-- Fully responsive design
+- Scroll-driven animations
+- Parallax effects
+- Smooth transitions
+- Responsive design
+- No framework dependencies
 
----
+## Tech Stack
 
-Built by [Qaziaaaa](https://github.com/Qaziaaaa)
+- HTML5
+- CSS3 (animations, transitions)
+- Vanilla JavaScript (Intersection Observer, Scroll API)
+
+## Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/Qaziaaaa/Scroll-Trigger-animation-Website.git
+cd Scroll-Trigger-animation-Website
+
+# Open index.html in a browser
+open index.html
+```
+
+No build step required — this is a static site.
+
+## License
+
+MIT
